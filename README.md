@@ -19,6 +19,7 @@ BackEnd:
 * Database: MongoDB is used as the database to store user profiles, posts, and other relevant data.
 
 ## Picture
+![SocialMedia](https://github.com/Hvang0702/Social-Media-App/assets/120008455/e766e374-3769-446d-86a7-db3924af9ed8)
 
 
 
